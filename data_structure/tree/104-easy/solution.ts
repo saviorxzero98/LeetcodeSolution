@@ -12,7 +12,6 @@ class TreeNode {
     }
 }
 
-
 function maxDepth(root: TreeNode | null): number {
     if (root == undefined) {
         return 0;
